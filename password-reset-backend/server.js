@@ -21,7 +21,7 @@ credentials: true,
 ];*/
 
 app.use(cors({
-  origin:'https://soft-sunshine-020931.netlify.app',
+  origin:'https://682b56c0c65e7b65dacd85c6--dynamic-nasturtium-e783a2.netlify.app/',
   credentials: true,
 }));
 
